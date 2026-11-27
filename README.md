@@ -1,7 +1,7 @@
 # Hi, I'm Paul Edetanlen 👋
 ### R.Eng, PMP, ITIL, MNSE, MIET
 
-**Technical Head | 13+ Years Building Networks | Now Securing Them**
+**Technical Head | 16+ Years Building Networks | Now Securing Them**
 
 I am a Registered Engineer with 13+ years delivering transmission, fibre, microwave, and power projects across Nigeria, Ghana, West Africa for MTN, Airtel, Globacom, MainOne & Glo 1, Delta State Goverment, Yobe State Government, Kaduna State Government, Adamawa state Government, NODC, SEEFOR, World Bank, NIGCOMSAT, Dangote Fertilizers Ltd, Dangote Refinery 
 
