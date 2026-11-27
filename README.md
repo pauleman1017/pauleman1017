@@ -1,24 +1,29 @@
 # Hi, I'm Paul Edetanlen 👋
+### R.Eng, PMP, ITIL, MNSE, MIET
 
-### Security Analyst | SOC | Cloud Security | GRC | CISSP in Progress
+**Technical Head | 13+ Years Building Networks | Now Securing Them**
 
-I build labs, audit cloud, and write detection tooling to break into SOC / Security Analyst roles.
+I am a Registered Engineer with 13+ years delivering transmission, fibre, microwave, and power projects across Nigeria, Ghana, West Africa for MTN, Airtel, Globacom, MainOne & Glo 1, Delta State Goverment, Yobe State Government, Kaduna State Government, Adamawa state Government, NODC, SEEFOR, World Bank, NIGCOMSAT, Dangote Fertilizers Ltd, Dangote Refinery 
 
----
+Now pivoting into **Cybersecurity: SOC | Cloud Security | GRC**
 
-### 🔥 My Portfolio
+### 🔥 What I Build
+- **SOC Home Lab** — Wazuh + Sysmon for real attack detection
+- **Cloud Security Audit (AWS)** — Auditing AWS against CIS Benchmark
+- **Phishing Email Analyzer** — Python tool to analyze phishing emails
 
-**[👉 View My Cybersecurity Portfolio](https://github.com/pauleman1017/cybersecurity-portfolio)**
-
-- **01 - SOC Home Lab** — Wazuh + Sysmon detection lab
-- **02 - Cloud Security Audit (AWS)** — CIS Benchmark audit, 15 findings remediated
-- **03 - Phishing Analyzer** — Python phishing scorer
-
----
+### 🏆 Certifications & Training
+- **R.Eng** — Registered Engineer (COREN)
+- **PMP** — Project Management Professional
+- **ITIL**
+- **CCNA Training Completed** — Official Cisco CCNA Exam: December 2026
+- **CompTIA Security+** — In Progress
+- **CISSP** — In Progress
 
 ### 🛠️ Skills
-
-`SIEM` `Wazuh` `Log Analysis` `Incident Response` `MITRE ATT&CK` `AWS Security` `IAM` `CloudTrail` `GuardDuty` `Python` `GRC` `CIS Benchmark`
+**Networks:** Transmission Planning, Fibre Optics, Microwave (Pathloss), DWDM/SDH/IP/MPLS, OSPF, VLANs, STP
+**Security:** SOC, Wazuh, Sysmon, AWS Security, CIS Benchmark, Phishing Analysis
+**Tools:** Packet Tracer, AutoCAD, Visio, Python, Wireshark
 
 ---
 
